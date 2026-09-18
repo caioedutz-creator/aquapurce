@@ -1,0 +1,17 @@
+# Configurações pessoais do Obsidian (tema, layout, arquivos abertos).
+.obsidian/
+
+# Variáveis de ambiente locais (não há .env nesta versão, mas se um dia houver,
+# ele nunca deve ser versionado).
+.env
+backend/.env
+
+# Arquivos gerados pelo sistema operacional e por editores.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs e estado de deploy.
+*.log
+ftp-deploy-sync-state.json
